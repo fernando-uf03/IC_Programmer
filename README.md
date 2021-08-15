@@ -19,3 +19,7 @@ Este repositório tem como finalidade a documentação de comandos utilizados em
 - Para submeter as alterações para o repositório remonto, basta utilizar o comando:
 
 	'git push`
+	
+- Para atualizar seu repositório local com as alterações feitas no remoto, utilize o comando:
+
+	'git pull´
