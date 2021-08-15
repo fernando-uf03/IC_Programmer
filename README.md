@@ -16,10 +16,14 @@ Este repositório tem como finalidade a documentação de comandos utilizados em
 
 	'git commit -m comment`
 	
-- Para submeter as alterações para o repositório remonto, basta utilizar o comando:
+- Para submeter as alterações do local spara o repositório remoto, basta utilizar o comando:
 
 	'git push`
-	
+
+- Para visualizar o histórico de commits, utiliza-se o comando:
+
+	´git log´
+
 - Para atualizar seu repositório local com as alterações feitas no remoto, utilize o comando:
 
 	'git pull´
