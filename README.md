@@ -16,7 +16,7 @@ Este repositório tem como finalidade a documentação de comandos utilizados em
 
 	'git commit -m comment`
 	
-- Para submeter as alterações do local spara o repositório remoto, basta utilizar o comando:
+- Para submeter as alterações do local para o repositório remoto, basta utilizar o comando:
 
 	'git push`
 
@@ -27,3 +27,7 @@ Este repositório tem como finalidade a documentação de comandos utilizados em
 - Para atualizar seu repositório local com as alterações feitas no remoto, utilize o comando:
 
 	'git pull´
+	
+- Para visualizar o fluxo de alterações e o branch atual, utiliza-se o comando:
+
+	'git status'
