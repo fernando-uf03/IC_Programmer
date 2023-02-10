@@ -1,8 +1,7 @@
 # Curso de Git e GitHub
 
 Este repositório tem como finalidade a documentação de comandos utilizados em Git para versionamento de arquivos de programação.
-
-- Comandos básicos a serem utilizados no git. 
+A seguir, há comandos básicos a serem utilizados no git. 
 
 - O primeiro comando serve para iniciar o repositório:
 	```
