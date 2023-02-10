@@ -9,9 +9,7 @@ Este repositório tem como finalidade a documentação de comandos utilizados em
 	git init
 	```
 - Para submeter as modificações realizadas no Working Directory para o INDEX, utiliza-se o seguinte comando:
-
-	'git add file`
-	
+	```git add file```
 - Para submeter as alterações do INDEX para o HEAD, utiliza-se o comando:
 
 	'git commit -m comment`
